@@ -1,0 +1,7 @@
+---
+title: "draft_climate_report"
+author: "Malaika Fernandes"
+date: "2025-04-24"
+output: html_document
+---
+
