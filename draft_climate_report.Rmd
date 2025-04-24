@@ -7,7 +7,7 @@ output: html_document
 
 ## Introduction 
 
-Zoe added an interesting figure about climate change. 
+Zoe added an interesting figure about climate change
 ## Methods
 
 
