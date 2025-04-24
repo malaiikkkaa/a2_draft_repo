@@ -7,7 +7,7 @@ output: html_document
 
 ## Introduction 
 
-Malaika added a well-worded line about the state of climate change 
+Malaika added a well-worded intro line about climate change. 
 ## Methods
 
 
