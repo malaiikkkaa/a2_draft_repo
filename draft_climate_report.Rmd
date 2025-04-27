@@ -8,7 +8,7 @@ output: html_document
 ## Introduction 
 
 
-
+this is zoe's second demo of same-line conflict 
 this is a line from malaika
 
 ## Methods
